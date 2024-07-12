@@ -1,2 +1,2 @@
-#Basic Calculator App
+**Basic Calculator App**
 Python,Streamlit
